@@ -77,8 +77,8 @@ public class Main
          
         // System.out.println(modulo);
        // increment and decrement operator  
-       int x =1;
-       int y=2;
+       // int x =1;
+       // int y=2;
        
     //   int num = (x++) +(--y);
     //   int num1 = (++x)+(x--)
@@ -90,6 +90,10 @@ public class Main
     
     // int num3 = (++x)+(y--)-(--x);
     // System.out.println(num3);
+
+// importing package
+    
+    //System.out.println(Math.max(x,y));
         
         
         
