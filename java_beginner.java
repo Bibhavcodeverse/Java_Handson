@@ -94,6 +94,22 @@ public class Main
 // importing class and use of function (max. min.)
     
     //System.out.println(Math.max(x,y));
+
+    // returns random number
+    //System.out.println(Math.random());
+    
+    //use of typecasting get integer random value 
+    
+    //System.out.println((int)(Math.random()*100));
+    
+    
+    //how to take input
+    
+    // Scanner sc = new Scanner(System.in);
+    // System.out.println("Input your Age: ");
+    // int age = sc.nextInt();
+    // System.out.println("Your age " +  age);
+    
         
         
         
