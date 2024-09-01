@@ -91,7 +91,7 @@ public class Main
     // int num3 = (++x)+(y--)-(--x);
     // System.out.println(num3);
 
-// importing package
+// importing class and use of function (max. min.)
     
     //System.out.println(Math.max(x,y));
         
