@@ -109,6 +109,11 @@ public class Main
     // System.out.println("Input your Age: ");
     // int age = sc.nextInt();
     // System.out.println("Your age " +  age);
+
+    // Scanner sc = new Scanner(System.in);
+    // System.out.println("Inputyour name: ");
+    // String name = sc.next();
+    // System.out.println("Your name is  " +name);
     
         
         
