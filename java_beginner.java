@@ -114,6 +114,22 @@ public class Main
     // System.out.println("Inputyour name: ");
     // String name = sc.next();
     // System.out.println("Your name is  " +name);
+
+//comparison operator 
+	   //a==b eyual to 
+	   //a!=b not equal to
+	   //a<b less than 
+	   //a>b greater than 
+	   //a>=b greater than equal to
+	   //a<=b less than eyual to 
+	   
+	   
+	   // conditional statement 
+	   //boolean isSunUp = true;
+    //      if (isSunUp==true)
+    //       System.out.println("day");
+    //       else
+    //       System.out.println("night");
     
         
         
