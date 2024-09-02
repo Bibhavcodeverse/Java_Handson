@@ -131,7 +131,16 @@ public class Main
     //       else
     //       System.out.println("night");
     
-        
+        //  logical operators
+    // && and operator both condition have to true 
+    // || or operator atleast one condition will be true
+    
+    // int a = 60;
+    // int b= 40;
+    
+    // if (a<50 && b<50)
+    // System.out.println("both less than 50");
+    
         
         
          
