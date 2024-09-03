@@ -182,7 +182,18 @@ public class Main
     // while(j<=100){
     //     System.out.println(j);
     //     j++;
-    // }     
+    // }   
+
+ //Break & continue
+    
+    // int i=0;
+    // while(true) {
+    //     System.out.println(i);
+    //     i=i+1;
+    //     if(i>5) {
+    //         break;
+    //     }
+    // }
          
          
          
